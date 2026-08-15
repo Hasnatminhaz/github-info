@@ -4,11 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=CSE+Student;Software+Developer;Always+Learning+New+Things;Building+Projects+Step+by+Step" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Hasnatminhaz">
-    <img src="https://komarev.com/ghpvc/?username=Hasnatminhaz&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-</p>
+ 
 
 ---
 
