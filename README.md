@@ -43,21 +43,7 @@
 
 ---
 
-## 🚀 Featured Projects
-
-> New projects will be added here as I build and complete them.
-
-### 🔹 Project 01
-**Coming Soon...**
-
-### 🔹 Project 02
-**Coming Soon...**
-
-### 🔹 Project 03
-**Coming Soon...**
-
----
-
+ 
 ## 📚 Currently Learning
 
 ```text
